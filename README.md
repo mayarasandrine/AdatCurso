@@ -15,3 +15,5 @@ precisamos informar o nome do arquivo que desejamos modificar '''
 
 # como descobrir qual a branch ultilizada
 *git log --oneline --decorate
+# criar um gitignore
+* um arquivo caso nao desemos que seja rastreado ou salvo 
