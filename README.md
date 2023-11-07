@@ -1,3 +1,7 @@
 # Curso digital/ git log e restore
 
 # Adicionado com sucesso e retirado o erro do bug 
+
+* ultilizando novamente o comando restore 
+''' eu posso remove o arquivo indesejado com o git restore na area de modifaiul ou na area de staged com o git restore --staged lembrando que 
+precisamos informar o nome do arquivo que desejamos modificar '''
