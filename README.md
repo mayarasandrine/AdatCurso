@@ -9,5 +9,6 @@ precisamos informar o nome do arquivo que desejamos modificar '''
 # utilizando o comando Git push 
 * quando enviar o arquivo verificar o repositorio online para certificar se as alterações foram comitadas
 # utilizando o comando pull
+*è o comando de puxa do nosso repositorio online para o nosso remoto todas as alterações que possam existe por outra pessoa realizando a manutenção do codigo
 # utilizando o comando Git fetch 
-''' que é o comando que utilizamos para verificar o que vem para o nosso repositorio primeiro antes de baixa para o nosso codigo'''
+* que é o comando que utilizamos para verificar o que vem para o nosso repositorio primeiro antes de baixa para o nosso codigo
