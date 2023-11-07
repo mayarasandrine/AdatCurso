@@ -9,3 +9,4 @@ precisamos informar o nome do arquivo que desejamos modificar '''
 # utilizando o comando Git push 
 * quando enviar o arquivo verificar o repositorio online para certificar se as alterações foram comitadas
 # utilizando o comando pull
+# utilizando o comando Git f
